@@ -174,6 +174,4 @@ Based on works cited in:
 
 This project demonstrates how **machine learning and computer vision** can transform traditional agriculture by automating **seed quality evaluation**, improving **crop yield**, and promoting **sustainable farming practices**. Through transfer learning and integration of deep CNNs, it bridges the gap between technology and real-world agricultural challenges.
 
----
 
-Would you like me to **generate a ready-to-upload `README.md` file** (formatted with markdown and including your GitHub repo name placeholders)? I can also add badges (like Python, TensorFlow, Flask, License) and a “Project Demo” section if you plan to upload screenshots or videos.
